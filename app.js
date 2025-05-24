@@ -94,3 +94,5 @@ const nuevosProductos = [
 const todosLosProductos = [...productos, ...nuevosProductos];
 console.log("\n13. Todos los productos combinados:", todosLosProductos);
  // agregando un comentariogit
+
+ // este cambio se va para la tercer rama
